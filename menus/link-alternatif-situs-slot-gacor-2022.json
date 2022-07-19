@@ -1,0 +1,26 @@
+{
+  "context-menu": {
+    "atom-text-editor": [
+      {
+        "label": "Toggle link-alternatif-situs-slot-gacor-2022",
+        "command": "link-alternatif-situs-slot-gacor-2022:toggle"
+      }
+    ]
+  },
+  "menu": [
+    {
+      "label": "Packages",
+      "submenu": [
+        {
+          "label": "link-alternatif-situs-slot-gacor-2022",
+          "submenu": [
+            {
+              "label": "Toggle",
+              "command": "link-alternatif-situs-slot-gacor-2022:toggle"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
